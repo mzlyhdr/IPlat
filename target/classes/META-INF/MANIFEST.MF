@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Built-By: Administrator
+Build-Jdk: 10.0.2
+Implementation-Title: eapp-corp-project
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: com.dingtalk
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/eapp-corp-pr
+ oject/
+Main-Class: com.Application
+Created-By: Maven Integration for Eclipse
+
